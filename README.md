@@ -28,8 +28,8 @@ Welcome to my personal website! This project is a showcase of my work, skills, a
 
 1. **Clone the repository:**
    ```bash
-   git clone <your-repo-url>
-   cd <your-repo-directory>
+   git clone <https://github.com/akashvim3/Portfoilo-Website.git>
+   
    ```
 
 2. **Open `index.html` in your browser:**
@@ -50,7 +50,7 @@ Welcome to my personal website! This project is a showcase of my work, skills, a
 
 ## Credits
 
-- [Your Name]
+- [Akash Vimal]
 - [Any libraries or assets used, if applicable]
 
 ## License
